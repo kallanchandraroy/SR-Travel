@@ -11,7 +11,7 @@ const Menu = () => {
         <div className="navbar-header">
           <div className="mobile-logo">
             <Link href="/">
-              <img src="assets/images/logos/logo.png" alt="Logo" title="Logo" />
+              <img src="assets\images\logos\ThePeaceTours-removebg-preview.png" alt="Logo" title="Logo" />
             </Link>
           </div>
           {/* Toggle Button */}
@@ -192,7 +192,7 @@ const Header1 = ({ sidebarClick }) => {
                 <div className="logo">
                   <Link href="/">
                     <img
-                      src="assets/images/logos/logo.png"
+                      src="assets\images\logos\ThePeaceTours-removebg-preview.png"
                       alt="Logo"
                       title="Logo"
                     />
