@@ -110,11 +110,8 @@ ul, li {
   margin: 0; }
 
 img {
-
-  width: 200px;
-  height: 100px;
+  max-width: 100%;
   display: inline-block; }
-
 hr {
   opacity: 1;
   background: var(--border-color); }

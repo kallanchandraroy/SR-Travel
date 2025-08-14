@@ -17,11 +17,13 @@ const page = () => {
             data-aos-duration={1500}
             data-aos-offset={50}
           >
+            Peace
+            <br />
             Tour &amp; Travel
           </h1>
           <div
             className="main-hero-image bgs-cover"
-            style={{ backgroundImage: "url(assets/images/hero/hajj.jpg)" }}
+            style={{ backgroundImage: "url(assets/images/hero/modina.gif)" }}
           />
         </div>
         {/* <SearchFilter /> */}
@@ -42,7 +44,9 @@ const page = () => {
                   title={"Umrah and Hajj Packages"}
                   countValue={5000}
                   subtitle1={"One site"}
-                  subtitle2={"Umrah packages are the perfect choice for individuals seeking a deeply spiritual journey"}
+                  subtitle2={
+                    "Umrah packages are the perfect choice for individuals seeking a deeply spiritual journey"
+                  }
                 />
               </div>
             </div>
